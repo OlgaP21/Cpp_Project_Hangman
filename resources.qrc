@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>main_background.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>words.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,112 @@
+111
+server
+käideldavus
+silumine
+korduslause
+failitöötlus
+ülekatmine
+piksel
+translaator
+staatiline muutuja
+arendaja
+põhikonstruktsioon
+juturobot
+graafiteooria
+katkestuspunkt
+käsurida
+laiendus
+andmetüüp
+argument
+raamistik
+andmestruktuur
+tekstifail
+tingimuslause
+staatiline atribuut
+kuhi
+hierarhia
+standardmallide teek
+virtuaalne funktsioon
+andmekaitse
+magasin
+standardnimeruum
+teisendamine
+riistvara
+erindite töötlemine
+puhverdus
+parooli entroopia
+indeks
+polümorfism
+veebisait
+assembler
+konstruktorite delegeerimine
+kodeering
+kompileerimine
+liides
+varajane seostamine
+platvorm
+pärilus
+kahendarv
+veateade
+defekt
+massiiv
+objektprogrammeerimine
+objekt
+protsessor
+lunavara
+monitor
+alamklass
+sissetungija
+initsialiseerimine
+puu
+konfiguratsioon
+sertifitseerimine
+autentsus
+muutujate eluiga
+kood
+ekstranet
+initsialiseerimine
+element
+dünaamiline mäluhaldus
+testimine
+tehisintellekt
+parameeter
+teek
+pakkimine
+otsendamine
+defineerimine
+tuum
+troojan
+ajatempliteenus
+andmestik
+infoturbe
+klaviatuur
+informatsioon
+tarkvara
+internet
+register
+destruktor
+piiritleja
+ujukomaarv
+operaator
+toiteadapter
+arhitektuur
+rakendus
+emaplaat
+virtuaalmasin
+hulk
+videokaart
+funktsioonimall
+avaldis
+teisendus
+kvantarvuti
+iteraator
+failiedastusprotokoll
+antiviirus
+abstraktne klass
+kursor
+ühendus
+viidad ja viited
+juhuarv
+sisend
+turvaauk
+otsingumootor
